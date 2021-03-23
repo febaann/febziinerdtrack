@@ -1,5 +1,22 @@
-
 Welcome to febziinerdtrack!
+Here you can see my assignments and the skills I learned in my training.
+
+Task 1 
+Understanding Web Development
+19/March/2021
+1.1 How Web Browser works - Working, Architecture
+1.2 Web hosting - Features, Types, ASP, DNS
+
+Task 2
+Basic Frontend
+22/March/2021
+2.1 HTML,CSS,JS Intro - learned the basics and designed webpages using basic HTML, CSS, Js features
+
+Task 3
+Version Control
+23/March/2021
+3.1 Basics of Version Control - Version control, Types
+3.2 Github commands and versioning - Commands, Created a new repository
 
 
 
