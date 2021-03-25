@@ -18,6 +18,16 @@ Version Control
 3.1 Basics of Version Control - Version control, Types
 3.2 Github commands and versioning - Commands, Created a new repository
 
+Task Continued Learning Js
+Javascript Basics
+24/March/2021
+Variables(redeclaring, let), Datatypes, Operators, Functions(sub divisions)
+
+Task Learning Js
+Javascript Basics
+25/March/2021
+Callback functions, promise, loops, API calls, Json Datatype, Json Format, Json request, response
+
 
 
 Thankyou:)
