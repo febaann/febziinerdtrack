@@ -28,6 +28,30 @@ Javascript Basics
 25/March/2021
 Callback functions, promise, loops, API calls, Json Datatype, Json Format, Json request, response
 
+Task 4 Designed a webpage for basic functionalities
+Using, HTML, CSS, Javascript
+26,29 March 2021
+
+Task Continued Learning Javascript
+Deep Foundations of Advanced Js
+29/March/2021
+Scope, Closure, Hoisting, Module
+
+Task 5 Linux, Js, Design Fundamentals
+30/March/2021
+Understanding Linux Commands, Directories, Js promises
+
+Task Js, Design Fundamentals, Linux
+31/March/2021
+Js: JSON, Async, await; Linux: Process Management
+
+Task Js, Linux
+01/April/2021
+Js API, Linux Unix N/w communication utilities
+
+Task Linux, Js, pragmatic Programmer
+05/April/2021
+Linux: Ping, Shell, Shell scripting; Js: Fetch API
 
 
 Thankyou:)
