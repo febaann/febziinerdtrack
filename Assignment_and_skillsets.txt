@@ -83,6 +83,16 @@ Learned and prepared a doc of Coding style guidelines
 23/April/2021
 NodeJs basics, Js certification course: Covered 50% 
 
+26/April/2021
+Js ES6, Js Certification
+
+27/April/2021
+Js ES6, Js Objects, Did a basic Unit Testing in Jest, Learned Design Patterns
+
+28/April/2021
+Basics of Node.js, Started Rest API with node.js and express framework, Learned Design Pattern (Factory Pattern) of Js, Jest: Unit Testing
+
+
 
 
 Thankyou:)
