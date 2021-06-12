@@ -1,5 +1,5 @@
 Welcome to febziinerdtrack!
-Here you can see my assignments and the skills I learned in my training.
+Here you can see my assignments that I did and the skills I learned in my training.
 
 Task 1 
 Understanding Web Development
@@ -165,4 +165,4 @@ CRUD operation
 11/June/2021 (Friday)
 CRUD operation
 
-Thankyou:)
+Thankyou:))
